@@ -93,6 +93,19 @@ section li {
   height: 30px;
   width: 0px;
   background: #F2974C;
+  margin: 100px;
+  padding: 5px;
+  display: inline;
+  border-radius: 50px;
+  line-height: 20px;
+  white-space: nowrap;
+
+}
+
+.blue {
+  height: 30px;
+  width: 0px;
+  background: cornflowerblue;
   margin: 10px;
   display: inline;
   border-radius: 50px;
@@ -104,4 +117,16 @@ section li {
   width: 120px;
   background: #F2974C;
   margin: 10px;
+}
+
+nav {
+  position: fixed;
+}
+
+nav h2 {
+  display: inline-block;
+  width:80px;
+  border:1px solid red;
+  height:90px;
+  overflow: hidden;
 }
