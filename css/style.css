@@ -1,0 +1,107 @@
+
+html {
+  background-color: cornflowerblue;
+}
+
+#search {
+  margin: auto;
+  margin-top: 10px;
+  color: white;
+  font-size: 12px;
+  width: 200px;
+  height:15px;
+  border: 2px solid white;
+  border-radius: 100px;
+}
+
+#Logo {
+  font-family: Butler, serif;
+}
+
+body {
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 0 auto 0 auto;
+}
+
+section p {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+section {
+  padding-top: 100px;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  border: 2.5px solid #3C0EA0;
+  border-radius: 500px;
+  display: block;
+  margin: auto;
+  margin-top: -50px;
+}
+
+div {
+  width: 320px;
+  position: fixed;
+}
+
+.top {
+  text-align: center;
+  margin-left: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #3C0EA0;
+  width: 320px;
+  height: 100px;
+  position: fixed;
+}
+.content {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2 {
+  font-size: 18px;
+  font-family: Arial;
+}
+
+.foot {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  font-family: arial;
+  color: white;
+}
+
+section li {
+  height: 30px;
+  width: 0px;
+  background: #F2974C;
+  margin: 10px;
+  display: inline;
+  border-radius: 50px;
+
+}
+
+.long {
+  height: 20px;
+  width: 120px;
+  background: #F2974C;
+  margin: 10px;
+}
